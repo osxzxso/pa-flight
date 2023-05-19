@@ -77,7 +77,7 @@ Please make sure your code follows best coding practices and include any necessa
 
 License
 -------
-PA Flight! is licensed under the MIT License. You are free to use, modify, and distribute this code, provided you include the license notice and follow its terms and conditions.
+PA Flight! is licensed under the MIT License. You are free to use, modify, and distribute this code, as long as attribution is provided and you include the license notice and follow its terms and conditions.
 
 Upcoming Game Enhancements and New Features
 -------------------------------------------
