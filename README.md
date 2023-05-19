@@ -13,6 +13,7 @@ Table of Contents
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Upcoming Game Enhancements and New Features](#upcoming-game-enhancements-and-new-features)
 
 Game Features
 -------------
