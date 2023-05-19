@@ -56,7 +56,7 @@ The code is organized in the following structure:
 - `index.html`: Contains the HTML structure and all the necessary JavaScript and CSS imports.
 - `style.css`: Contains the basic styling for the HTML elements.
 - `sketch.js`: Contains the primary game logic, event handling, and rendering functions.
-- `background.js`: Contains the Background class, which defines the sun, sky, and landscpae objects.
+- `background.js`: Contains the Background class, which defines the sun, sky, and landscape objects.
 - `cloud.js`: Contains the Cloud class, which defines the cloud objects and handles their placements.
 - `tree.js`: Contains the Tree class, which defines the tree objects and handles their placements.
 - `bird.js`: Contains the Bird class, which defines the bird objects and handles their placements and collisions.
