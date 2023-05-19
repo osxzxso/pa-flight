@@ -80,8 +80,8 @@ License
 -------
 PA Flight! is licensed under the MIT License. You are free to use, modify, and distribute this code, as long as attribution is provided and you include the license notice and follow its terms and conditions.
 
-Upcoming Game Enhancements and New Features
--------------------------------------------
+Upcoming Game Enhancements
+--------------------------
 
 ### Fix Issues
 - Consider using a library like p5.collide2D for more accurate collision detection.
