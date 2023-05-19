@@ -3,7 +3,7 @@
 PA Flight!
 ==========
 
-PA Flight! is an entertaining and challenging paper airplane flying game, created with the p5js library. The main objective of the game is to navigate an airplane between birds to score points. Players can control the plane's altitude by tilting the airplane up and down using the UP and DOWN arrow keys. The game features a landscape background, immersive sound effects, and a dynamic scrolling environment to provide an enjoyable gaming experience.
+PA Flight! is an entertaining and challenging paper airplane flying game, created with the p5.js library. The main objective of the game is to navigate an airplane between birds to score points. Players can control the plane's altitude by tilting the airplane up and down using the UP and DOWN arrow keys. The game features a landscape background, immersive sound effects, and a dynamic scrolling environment to provide an enjoyable gaming experience.
 
 Table of Contents
 -----------------
@@ -62,7 +62,7 @@ The code is organized in the following structure:
 - `bird.js`: Contains the Bird class, which defines the bird objects and handles their placements and collisions.
 - `airplane.js`: Contains the Airplane class, which defines the airplane object and handles its movement.
 
-All the assets (sounds and fonts) are stored in the `assets` folder, while the p5js library files are stored in the `libraries` folder.
+All the assets (sounds and fonts) are stored in the `assets` folder, while the p5.js library files are stored in the `libraries` folder.
 
 Contributing
 ------------
