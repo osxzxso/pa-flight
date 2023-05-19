@@ -95,7 +95,7 @@ Upcoming Game Enhancements
 - Add a high score system and leaderboard: Save the player's high score and display it on the screen in additional to an online global leaderboard that would allow players to compete with friends and other players worldwide.
 
 ### New Features
-- Power-ups/Power-downs: Introduce "power-ups" that the player can collect while playing, such as temporary invincibility, increase movement speed, decrease scroll speed, increase the bird spacing, score multipliers, or other beneficial effects. Also incorporate "power-downs", which could be the inverse of "power-ups".
+- Power-ups/Power-downs: Introduce "power-ups" that the player can collect while playing, such as temporary invincibility, increase movement speed, decrease scroll speed, decrease airplane size, decrease bird size, increase bird spacing, score multipliers, or other beneficial effects. Also incorporate "power-downs", which could be the inverse of "power-ups".
 - Different airplane types: Add different airplane types with unique abilities, such as faster speed or better maneuverability. Players can unlock these airplanes by achieving higher scores or collecting in-game currency.
 - In-game currency: Implement an in-game currency system that players can earn by playing the game. The currency can be used to unlock new airplane types or power-ups.
 - Levels and progression: Create different levels with unique challenges, like different obstacles or varying terrain or weather. The player can progress through the levels by completing objectives or achieving high scores. The game could progressively gets harder as the player's score increases. This could be done by increasing the scrolling speed, decreasing the bird spacing, or a combination of both.
