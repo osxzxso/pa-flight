@@ -20,7 +20,7 @@ Game Features
 - Smooth airplane control with arrow keys
 - Upward and downward tilting for airplane navigation
 - Dynamic background scrolling
-- Randomly generated bird formations with varying gaps
+- Randomly generated bird formations
 - Scoring system based on successfully navigating between birds
 - Collisions with birds or game boundaries reset the score to zero
 - Start, pause, and quit options
